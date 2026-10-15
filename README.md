@@ -1,6 +1,6 @@
-# Wanderlust
+# Airbnb
 
-Wanderlust is a full-stack travel listing web application where users can explore travel destinations, create listings, and share reviews.
+Airbnb is a full-stack travel listing web application where users can explore travel destinations, create listings, and share reviews.
 
 ## Features
 
